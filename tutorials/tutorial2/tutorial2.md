@@ -57,23 +57,3 @@ Restart-Computer -Force -ComputerName SERVER1
 
 [DONE]
 [ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 3](With 3)]
-```PowerShall
-2
-Start-Sleep 10
-Restart-Computer -Force -ComputerName SERVER2
-```
-
-[DONE]
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 4](With 4)]
-```PowerShall
-2
-Start-Sleep 10
-Restart-Computer -Force -ComputerName SERVER2
-```
-
-[DONE]
-[ACCORDION-END]
